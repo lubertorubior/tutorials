@@ -1,2 +1,2 @@
-# tutorials
-Materials and tutorials about bioinformatics.
+# Tutorials
+This repository contains materials and tutorials about bioinformatics.
